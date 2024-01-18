@@ -1,0 +1,18 @@
+how to compile
+
+step 1.
+    open cmd (command prompt) 
+
+step 2.
+    make the dir in the folder you want it to be in 
+    EX : cd C:\desktop\C_files
+
+step 3.
+    type in "gcc [name of file]"
+
+step 4.
+    you've compiled a program good job
+
+step 5. (optional)
+    to run the compiled program type in the name of the compiled program
+    EX : "a.exe"
