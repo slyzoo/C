@@ -11,6 +11,7 @@ int main(){
     int result_addition = number_1 + number_2;
 printf("add : 21 + 65 = %d \n", result_addition);
 
+
 // - subtraction
 int result_subtraction = number_1 - number_2;
 printf("subtract : 21 - 65 = %d \n", result_subtraction);
@@ -34,6 +35,14 @@ printf("increment : 7 -> %d \n", number_3);
 // -- decrement (minus 1)
 number_4--;
 printf("decrement : 89 -> %d \n", number_4);
+
+// or another way to do these would be
+
+number_1 += 4;
+number_2 -= 5;
+number_3 *= 7;
+number_4 /= 2;
+number_4 %= 4;
 
     return 0;
 }
