@@ -4,6 +4,9 @@ int main(){
 
     float temp = 53;
 
+//  only one of the values have to be true for it to activate
+// OR / ||
+
 if (temp >= 90 || temp <= 0){
     printf("the weather is BAD");
 }

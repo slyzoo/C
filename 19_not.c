@@ -5,6 +5,9 @@ int main (){
 
     bool sunny = false;
 
+//  reverses the value 
+// NOT / !
+
     if (sunny){
         printf("it is sunny outside");
     }

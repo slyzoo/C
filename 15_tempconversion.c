@@ -17,6 +17,7 @@ int main(){
         printf("what is the temperature? : ");
         scanf("%f", &temp);
 
+//      F = C * 9 / 5 + 32
         temp = (temp * 9 / 5 + 32);
 
         printf("The Temp in F is : %f", temp);
@@ -26,6 +27,7 @@ int main(){
         printf("what is the temperature?");
         scanf("%f", &temp);
 
+//      C = ((F - 32) * 5) / 9
         temp = ((temp - 32)* 5) / 9 ;
 
         printf("The Temp in C is : %f", temp);

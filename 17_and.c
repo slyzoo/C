@@ -6,6 +6,9 @@ int main (){
     float temp = 100;
     bool sunny = false;
 
+//  both values have to be true in order for thing to happen
+//  AND / &&
+
 if (temp >= 90){
     printf("the weather is HOT, but at least its shady");
 }
