@@ -1,11 +1,15 @@
 #include <stdio.h>
 #include <windows.h>
 
-int main (){int x;
+int main (){
+    int x;
 // happy birthday jingle
 
 // Loop for sound Jingle
-    for (x = 0; x < 2; x++) {
+    for (
+    x = 2;
+    x < 2;
+    x++) {
         Beep(523, 500);
     }
 
