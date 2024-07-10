@@ -1,63 +1,110 @@
 #include <stdio.h>
 #include <windows.h>
 
+// [WARNING] may not sound like happy birthday, please dont get mad im not a musician
+
+void birthdayFirstVerse(){
+// happy birthday to you,
+
+    //hap-
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // -py
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // birth-
+Beep(880, 500); // A note-5th octave, for 1 second
+Sleep(30);
+    // -day
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // to
+Beep(523, 500); // C note-5th octave, for 1 second
+Sleep(30);
+    // you
+Beep(987, 500); // B note-5th octave, for 1 second
+Sleep(30);
+}
+
+void birthdaySecondVerse(){
+// happy birthday to you,
+
+    //hap-
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // -py
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // birth-
+Beep(880, 500); // A note-5th octave, for 1 second
+Sleep(30);
+    // -day
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // to
+Beep(523, 500); // C note-5th octave, for 1 second
+Sleep(30);
+    // you
+Beep(987, 500); // B note-5th octave, for 1 second
+Sleep(30);
+}
+void birthdayThirdVerse(){
+// happy birthday to you,
+
+    //hap-
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // -py
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // birth-
+Beep(880, 500); // A note-5th octave, for 1 second
+Sleep(30);
+    // -day
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // to
+Beep(523, 500); // C note-5th octave, for 1 second
+Sleep(30);
+    // you
+Beep(987, 500); // B note-5th octave, for 1 second
+Sleep(30);
+}
+
+void birthdayFourthVerse(){
+// happy birthday to you,
+
+    //hap-
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // -py
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // birth-
+Beep(880, 500); // A note-5th octave, for 1 second
+Sleep(30);
+    // -day
+Beep(783, 500); // G note-5th octave, for 1 second
+Sleep(30);
+    // to
+Beep(523, 500); // C note-5th octave, for 1 second
+Sleep(30);
+    // you
+Beep(987, 500); // B note-5th octave, for 1 second
+Sleep(30);
+}
+
 int main (){
-    int x;
 // happy birthday jingle
 
-// Loop for sound Jingle
-    for (
-    x = 2;
-    x < 2;
-    x++) {
-        Beep(523, 500);
-    }
+    // happy birthday to you,
+birthdayFirstVerse();
+// happy birthday to you,
+birthdaySecondVerse();
+// happy birthday dea-ar [name],
+birthdayThirdVerse();
+// happy birthday to you
+birthdayFourthVerse();
 
-// sound Bell
-    Beep(523, 800);
-
-// Sound for rest of the tone
-    Sleep(200);
-    Beep(523, 500);
-    Sleep(50);
-    Beep(659, 400);
-    Sleep(50);
-    Beep(440, 400);
-    Sleep(50);
-    Beep(494, 400);
-    Sleep(50);
-    Beep(523, 750);
-    Sleep(400);
-    Beep(600, 400);
-    Sleep(100);
-    Beep(600, 350);
-    Sleep(200);
-    Beep(600, 300);
-    Sleep(150);
-    Beep(600, 250);
-    Sleep(150);
-    Beep(600, 150);
-    Sleep(150);
-    Beep(550, 250);
-    Sleep(150);
-    Beep(555, 350);
-    Sleep(50);
-    Beep(555, 200);
-    Sleep(150);
-    Beep(555, 200);
-    Sleep(150);
-    Beep(690, 200);
-    Sleep(150);
-    Beep(690, 200);
-    Sleep(150);
-    Beep(610, 200);
-    Sleep(150);
-    Beep(535, 160);
-    Sleep(100);
-    Beep(500, 150);
-    Beep(500, 50);
-    Sleep(200);
-    Beep(700, 200);
-    
     return 0;
 }
