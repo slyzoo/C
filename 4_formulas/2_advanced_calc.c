@@ -10,7 +10,7 @@ int main (){
     double result;
 
 // choosing operator
-printf("Choose an operator [+, -, *, /]  : ");
+printf("Choose an operator [√ = q, exp = p, sin = s, c = cos, tan = t]  : ");
 scanf("%c", &operator);
 
 // saying first number
@@ -26,27 +26,33 @@ scanf("%lf", &number2);
 
 switch(operator){
 
-    case '+':
-    result = number1 + number2;
+    case 'q':
+    result = sqrt(number1);
     printf("result : %lf", result);
     break;
 
-    case '-':
-    result = number1 + number2;
+    case 'p':
+    result = pow(number1, number2);
     printf("result : %lf", result);
     break;
 
-    case '*':
-    result = number1 + number2;
+    case 's':
+    result = sin(number1);
     printf("result : %lf", result);
     break;
 
-    case '/':
-    result = number1 + number2;
+    case 'c':
+    result = cos(number1);
     printf("result : %lf", result);
     break;
 
+    case 't':
+    result = tan(number1);
+    printf("result : %lf", result);
+    break;
 }
+
+
 
 return 0;
 }
