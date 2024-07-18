@@ -24,7 +24,7 @@ int main(){
     int E = floor(3.14);
     printf("%d", E);
 
-// absolute vaule
+// absolute value
     double F = fabs(-123); // why is it called "fabs"?
     printf("%lf", F);
 
