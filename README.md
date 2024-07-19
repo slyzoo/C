@@ -40,6 +40,7 @@
     
 
 # 4_formulas (quick formulas for when you dont want to calculate stuffs) : 
+includes .exes (executables) for those who dont care about c
 ## shape surface area
 ### 2d shapes
     1. circle area
