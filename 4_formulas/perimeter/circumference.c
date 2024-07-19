@@ -2,10 +2,18 @@
 
 int main(){
 
-    double number1;
-    double number2;
+    const double pi = 3.14;
+    double radius;
+    double circumference;
 
-    double result;
+printf("Enter the Radius : ");
+scanf("%lf", &radius);
+
+// C = 2 * π * r
+circumference = 2 * pi * radius;
+
+printf("The Circumference is : %lf", circumference);
+
 
 return 0;
 }
