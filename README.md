@@ -47,9 +47,8 @@ includes .exes (executables) for those who dont care about c
 ### 2d shapes
     - circle area
     - cylinder area
-    - rectangle area
-    - square area 
-        - Length * width
+    - rectangle area (Length * width)
+    - square area (Length * Length)
     - 
 
 ## perimeter
