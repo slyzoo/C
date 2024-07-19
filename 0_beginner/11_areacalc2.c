@@ -8,7 +8,6 @@ int main (){
     double area;
 
     printf("\nEnter the radius : ");
-
     scanf("%lf", &radius);
 
 //      A = πr²

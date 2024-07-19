@@ -1,7 +1,7 @@
 # my C progress
 [learning from Bro Code](https://youtu.be/nrbBmoINqtk?si=wRTO0UT4xhdxfAzX)
 
-## 0_beginner (teaches the user and shows them how to use the basics of c) : 
+# 0_beginner (teaches the user and shows them how to use the basics of c) : 
     1. comments
     2. printf (hello world)
     3. how to compile
@@ -32,23 +32,37 @@
     28. while loops
 
 
-## 1_advanced (teaches the user and shows them how to use more advanced c) :
+# 1_advanced (teaches the user and shows them how to use more advanced c) :
     sounds
     making a window (in windows)
 
-## 3_random (random things i found useful) : 
+# 3_random (random things i found useful) : 
     
 
-## 4_formulas (quick formulas for when you dont want to calculate stuffs) : 
-### area
+# 4_formulas (quick formulas for when you dont want to calculate stuffs) : 
+## shape surface area
+### 2d shapes
     1. circle area
-    2. rectangle area
     3. cylinder area
-    4. circumfrence area
-    5. square area
+    4. rectangle area
+    5. square area 
+     - Length * width
     6. 
 
-### volume
+## perimeter
+    1. circumference
+    2. rectangle
+    3. square
+    4. trapizoid
+    5.
+
+## shape volume
+### 3d shapes
     1. sphere volume
     2. cube volume
+    3. 
+
+## conversions
+    1. temperature 
+    2. 
     3. 
