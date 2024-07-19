@@ -15,7 +15,5 @@ int main(){
     result = pi * pow(radius, 2);
     printf("The area is : %.2lf", result);
 
-
-
 return 0;
 }
