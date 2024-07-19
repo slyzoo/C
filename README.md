@@ -2,35 +2,34 @@
 [learning from Bro Code](https://youtu.be/nrbBmoINqtk?si=wRTO0UT4xhdxfAzX)
 
 # 0_beginner (teaches the user and shows them how to use the basics of c) : 
-    1. comments
-    2. printf (hello world)
-    3. how to compile
-    4. escape sequences
-    5. variables
-    6. format specifiers
-    7. constants
-    8. arithmatic operations
-    9. user input
-    10. math functions
-    11. circumfrence calculator
-    12. area calculator
-    13. hypotenuse calculator
-    14. if statments
-    15. switch cases
-    16. temperature conversion
-    17. basic calculator
-    18. and
-    19. or
-    20. not
-    21. functions
-    22. arguments
-    23. returns
-    24. ternary
-    25. function prototypes
-    26. string functions
-    27. for loops
-    28. while loops
-
+    - comments
+    - printf (hello world)
+    - how to compile
+    - escape sequences
+    - variables
+    - format specifiers
+    - constants
+    - arithmatic operations
+    - user input
+    - math functions
+    - circumfrence calculator
+    - area calculator
+    - hypotenuse calculator
+    - if statments
+    - switch cases
+    - temperature conversion
+    - basic calculator
+    - and
+    - or
+    - not
+    - functions
+    - arguments
+    - returns
+    - ternary
+    - function prototypes
+    - string functions
+    - for loops
+    - while loops
 
 # 1_advanced (teaches the user and shows them how to use more advanced c) :
     sounds
@@ -43,27 +42,27 @@
 includes .exes (executables) for those who dont care about c
 ## shape surface area
 ### 2d shapes
-    1. circle area
-    3. cylinder area
-    4. rectangle area
-    5. square area 
-     - Length * width
-    6. 
+    - circle area
+    - cylinder area
+    - rectangle area
+    - square area 
+    - Length * width
+    - 
 
 ## perimeter
-    1. circumference
-    2. rectangle
-    3. square
-    4. trapizoid
-    5.
+    - circumference
+    - rectangle
+    - square
+    - trapizoid
+    -
 
 ## shape volume
 ### 3d shapes
-    1. sphere volume
-    2. cube volume
-    3. 
+    - sphere volume
+    - cube volume
+    - 
 
 ## conversions
-    1. temperature 
-    2. 
-    3. 
+    - temperature 
+    - 
+    - 
