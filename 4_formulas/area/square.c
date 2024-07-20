@@ -1,21 +1,17 @@
 #include <stdio.h>
-#include <math.h>
 
 int main(){
 
     double length;
-    double width;
-    double result;
+    double area;
 
-    printf("\nEnter the width : ");
-    scanf("%lf", &width);
-
-    printf("\nEnter the length : ");
+    printf("\nEnter the width or length? : ");
     scanf("%lf", &length);
 
-    result = length * width;
+// area = length * width || length * 2
+    area = length * 2;
 
-    printf("the result is %0.2lf", result);
+    printf("the result is %0.2lf", area);
 
 return 0;
 }

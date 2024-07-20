@@ -14,6 +14,5 @@ circumference = 2 * pi * radius;
 
 printf("The Circumference is : %lf", circumference);
 
-
 return 0;
 }

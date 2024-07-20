@@ -3,34 +3,34 @@
 
 # 0_beginner
 ## teaches the user and shows them how to use the basics of c
-    [x] comments
-    [x] printf (hello world)
-    [x] how to compile
-    [x] escape sequences
-    [x] variables
-    [x] format specifiers
-    [x] constants
-    [x] arithmatic operations
-    [x] user input
-    [x] math functions
-    [x] circumfrence calculator
-    [x] area calculator
-    [x] hypotenuse calculator
-    [x] if statments
-    [x] switch cases
-    [x] temperature conversion
-    [x] basic calculator
-    [x] and
-    [x] or
-    [x] not
-    [x] functions
-    [x] arguments
-    [x] returns
-    [x] ternary
-    [x] function prototypes
-    [x] string functions
-    [ ] for loops
-    [ ] while loops
+    - comments
+    - printf (hello world)
+    - how to compile
+    - escape sequences
+    - variables
+    - format specifiers
+    - constants
+    - arithmatic operations
+    - user input
+    - math functions
+    - circumfrence calculator
+    - area calculator
+    - hypotenuse calculator
+    - if statments
+    - switch cases
+    - temperature conversion
+    - basic calculator
+    - and
+    - or
+    - not
+    - functions
+    - arguments
+    - returns
+    - ternary
+    - function prototypes
+    - string functions
+    - for loops
+    - while loops
 
 # 1_advanced 
 **teaches the user and shows them how to use more advanced c**
