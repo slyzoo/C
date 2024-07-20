@@ -4,5 +4,7 @@ int main(){
 
     
 
+// volume = s³
+
 return 0;
 }

@@ -1,17 +1,19 @@
 #include <stdio.h>
+#include <math.h>
 
 int main(){
 
     const double pi = 3.14;
     double radius;
-    double result; // Area
+    double area;
 
     printf("Enter the radius : ");
     scanf("%lf", &radius);
 
-// Area = π * radius²
-    result = pi * pow(radius, 2);
-    printf("The area is : %0.2lf", result);
+// area = 4πr²
+    area = 4*pi*pow(radius,2);
+
+    printf("the area is : %lf", area);
 
 return 0;
 }
