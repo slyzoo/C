@@ -16,7 +16,7 @@ int main(){
     printf("Enter the height : ");
     scanf("%lf", &height);
 // Area = B + b / 2 * h
-    area = large_side + small_side / 2 * height;
+    area = ((large_side + small_side) / 2) * height;
 
     printf("the area is : %0.2lf", area);
 

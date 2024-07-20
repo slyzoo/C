@@ -13,7 +13,7 @@ int main(){
     scanf("%lf", &small_diagonal);
 
 // Area = D * d / 2
-    area = large_diagonal * small_diagonal / 2;
+    area = (large_diagonal * small_diagonal) / 2;
 
     printf("The area is : %0.2lf", area);
 
