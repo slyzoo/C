@@ -31,15 +31,16 @@ int main(){
 // logarithms
     double G = log(3);
     printf("%lf", G);
-// 
+
+// sine
     double H = sin(45);
     printf("%lf", H);
 
-// 
+// cosine
     double I = cos(45);
     printf("%lf", I);
 
-// 
+// tangent
     double J = tan(45);
     printf("%lf", J);
 

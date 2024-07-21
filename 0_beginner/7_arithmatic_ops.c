@@ -11,7 +11,6 @@ int main(){
     int result_addition = number_1 + number_2;
 printf("add : 21 + 65 = %d \n", result_addition);
 
-
 // - subtraction
 int result_subtraction = number_1 - number_2;
 printf("subtract : 21 - 65 = %d \n", result_subtraction);
