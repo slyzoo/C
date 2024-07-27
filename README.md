@@ -38,32 +38,37 @@ sounds
 making a window (in windows)
 
 # 3_random (random things i found useful) : 
-    
+    - minecraft calculator for armour
+    - minecraft calculator for tools
+    - minecraft calculator
+    - random number gen, max limit from user
 
 # 4_formulas
-**quick formulas for when you dont want to calculate stuffs**
-## shape surface area
-### 2d shapes
+## Area
     - circle area
     - cylinder area
-    - rectangle area (Length * width)
-    - square area (Length * 2)
+    - rectangle area
+    - square area
     - 
 
-## perimeter
+## Conversions
+    - temperature (coming soon)
+
+## Motion
+    - acceration
+    - average velocity
+    - vertical velocity
+
+## Perimeter
     - circumference
     - rectangle
     - square
     - trapizoid
     -
 
-## shape volume
-### 3d shapes
-    - sphere volume
-    - cube volume
-    - 
-
-## conversions
-    - temperature 
-    - 
-    - 
+## Volume
+    - cube
+    - cylinder
+    - pyramid
+    - rectanglar prism
+    - sphere
