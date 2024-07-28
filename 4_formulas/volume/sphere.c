@@ -4,7 +4,6 @@
 int main(){
 
     const double pi = 3.14;
-    const double threeoverfour = .75;
     double radius;
     double volume;
 
@@ -12,7 +11,7 @@ int main(){
     scanf("%lf", &radius);
 
 // volume = 3/4 * π * r³
-    volume = threeoverfour * pi * pow(radius, 4);
+    volume = 0.75 * pi * pow(radius, 4);
 
     printf("The volume is : %lf", volume);
 

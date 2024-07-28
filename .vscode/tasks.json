@@ -3,30 +3,16 @@
         {
             "type": "cppbuild",
             "label": "C/C++: gcc.exe build active file",
-            "command": "C:/msys64/mingw64/bin/gcc.exe",
+            "command": "C:/mingw64/bin/gcc.exe",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe",
-                "-IC:\\msys64\\mingw64\\include\\gtk-4.0",
-                "-IC:\\msys64\\mingw64\\include\\glib-2.0",
-                "-IC:\\msys64\\mingw64\\lib\\glib-2.0\\include",
-                "-IC:\\msys64\\mingw64\\include\\cairo",
-                "-IC:\\msys64\\mingw64\\include\\pango-1.0",
-                "-IC:\\msys64\\mingw64\\include\\harfbuzz",
-                "-IC:\\msys64\\mingw64\\include\\gdk-pixbuf-2.0",
-                "-IC:\\msys64\\mingw64\\include\\graphene-1.0",
-                "-IC:\\msys64\\mingw64\\lib\\graphene-1.0\\include",
-                "-lgtk-4",
-                "-lgdk_pixbuf-2.0",
-                "-lgio-2.0",
-                "-lgobject-2.0",
-                "-lglib-2.0"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe"
             ],
             "options": {
-                "cwd": "C:/msys64/mingw64/bin"
+                "cwd": "C:/mingw64/bin"
             },
             "problemMatcher": [
                 "$gcc"

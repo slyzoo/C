@@ -57,7 +57,10 @@ making a window (in windows)
 ## Motion
     - acceration
     - average velocity
+    - distance 
+    - time of flight
     - vertical velocity
+    - y axis displacement
 
 ## Perimeter
     - circumference
