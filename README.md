@@ -56,8 +56,8 @@
 thats all from code bro, congrats
 
 # 1_advanced 
-**teaches the user and shows them how to use more advanced c**
-sounds
+    - **teaches the user and shows them how to use more advanced c**
+    - sounds
 making a window (in windows)
 
 # 2_random (random things i found useful) : 
