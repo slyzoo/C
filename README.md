@@ -37,13 +37,13 @@
 sounds
 making a window (in windows)
 
-# 3_random (random things i found useful) : 
+# 2_random (random things i found useful) : 
     - minecraft calculator for armour
     - minecraft calculator for tools
     - minecraft calculator
     - random number gen, max limit from user
 
-# 4_formulas
+# 3_formulas
 ## Area
     - circle area
     - cylinder area
