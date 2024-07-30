@@ -1,8 +1,7 @@
 # my C progress
-[learning from Bro Code](https://youtu.be/nrbBmoINqtk?si=wRTO0UT4xhdxfAzX)
-
 # 0_beginner
 ## teaches the user and shows them how to use the basics of c
+[learning from Bro Code](https://youtu.be/nrbBmoINqtk?si=wRTO0UT4xhdxfAzX)
     - comments
     - printf (hello world)
     - how to compile
@@ -31,6 +30,30 @@
     - string functions
     - for loops
     - while loops
+    - do while loops
+    - nested loops
+    - break v continue
+    - arrays
+    - printing arrays with loops
+    - 2d arrays
+    - arrays with strings
+    - swapping 2 varibles values
+    - sorting arrays
+    - structs
+    - typedef
+    - arrays of structs
+    - enums
+    - random numbers
+    - number guessing game
+    - quiz game
+    - bitwise operators
+    - memory addresses
+    - pointers
+    - writing files
+    - reading files
+    - tic tac toe (noughts and crosses)
+
+thats all from code bro, congrats
 
 # 1_advanced 
 **teaches the user and shows them how to use more advanced c**
