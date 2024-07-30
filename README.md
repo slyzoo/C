@@ -1,7 +1,7 @@
 # my C progress
 # 0_beginner
-## teaches the user and shows them how to use the basics of c
 [learning from Bro Code](https://youtu.be/nrbBmoINqtk?si=wRTO0UT4xhdxfAzX)
+## teaches the user and shows them how to use the basics of c
     - comments
     - printf (hello world)
     - how to compile
